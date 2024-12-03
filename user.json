@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "username": "sonyvansha",
+    "password" "adminsony",
+    "email": "sonyvansha@example.com",
+    "fullName": "Sony Vansha",
+    "role": "admin",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "username": "hutao",
+    "password": "admin123",
+    "email": "hutao@example.com",
+    "fullName": "Hu Tao",
+    "role": "user",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "username": "mikesmith",
+    "email": "mikesmith@example.com",
+    "fullName": "Mike Smith",
+    "role": "moderator",
+    "isActive": false
+  }
+]
