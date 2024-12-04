@@ -1,7 +1,10 @@
 [
   { "id": 1, 
-    "title": "Buku 1", 
-    "author": "Penulis 1" 
+    "title": "MTCNA - MikroTik", 
+    "author": "Sony Vansha",
+    "cover_url": "https://i.ibb.co.com/Xt9F59G/Screenshot-22.png",
+    "publish_date": "5 Maret 2023",
+    "pdf_link": "test"
   },
   { "id": 2, 
     "title": "Buku 2", 
