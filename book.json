@@ -1,47 +1,46 @@
 [
   { 
     "id": 1, 
-    "title": "MTCNA - MikroTik", 
+    "title": "Sample 01", 
     "author": "Sony Vansha",
-    "cover_url": "https://i.ibb.co.com/Xt9F59G/Screenshot-22.png",
+    "cover_url": "https://i.ibb.co.com/k4ztjxh/Screenshot-28.png",
     "publish_date": "5 Maret 2023",
-    "pdf_link": "https://drive.google.com/file/d/1keRTu8m3U_Aen7BZLU2KXfZ1uYyOnz3v/preview",
+    "pdf_link": "https://drive.google.com/file/d/1WlvARMzQO2oZ__Tiw9jAgQn3-WzIpVGp/preview",
     "description": "A young wizard embarks on his first year at Hogwarts School of Witchcraft and Wizardry."
   },
   { 
     "id": 2, 
-    "title": "MTCNA - MikroTik", 
+    "title": "Sample 02", 
     "author": "Sony Vansha",
-    "cover_url": "https://i.ibb.co.com/Xt9F59G/Screenshot-22.png",
-    "publish_date": "5 Maret 2023",
-    "pdf_link": "https://drive.google.com/file/d/1jF9ZQQrjhdXcDZ-6hMStK9Ip7AKfjHDA/preview",
+    "cover_url": "https://i.ibb.co.com/hCNY9R9/Screenshot-29.png",
+    "pdf_link": "https://drive.google.com/file/d/1zxvbrDi09N1m-Y442cAgDqzth60kVxET/preview",
     "description": "A young wizard embarks on his first year at Hogwarts School of Witchcraft and Wizardry."
   },
   { 
     "id": 3, 
-    "title": "MTCNA - MikroTik", 
+    "title": "Sample 03", 
     "author": "Sony Vansha",
-    "cover_url": "https://i.ibb.co.com/Xt9F59G/Screenshot-22.png",
+    "cover_url": "https://i.ibb.co.com/xsKdX4X/Screenshot-30.png",
     "publish_date": "5 Maret 2023",
-    "pdf_link": "https://drive.google.com/file/d/1keRTu8m3U_Aen7BZLU2KXfZ1uYyOnz3v/view",
+    "pdf_link": "https://drive.google.com/file/d/1mYQRodCNa42ad-5uHxKDI_nuE6ynMerD/preview",
     "description": "A young wizard embarks on his first year at Hogwarts School of Witchcraft and Wizardry."
   },
   { 
     "id": 4, 
-    "title": "MTCNA - MikroTik", 
+    "title": "Sample 04", 
     "author": "Sony Vansha",
-    "cover_url": "https://i.ibb.co.com/Xt9F59G/Screenshot-22.png",
+    "cover_url": "https://i.ibb.co.com/SVMfVtT/Screenshot-31.png",
     "publish_date": "5 Maret 2023",
-    "pdf_link": "https://drive.google.com/file/d/1keRTu8m3U_Aen7BZLU2KXfZ1uYyOnz3v/view",
+    "pdf_link": "https://drive.google.com/file/d/1lXPvRkcuHHG5eHwqNYjdGIyD_AhR7A7w/preview",
     "description": "A young wizard embarks on his first year at Hogwarts School of Witchcraft and Wizardry."
   },
   { 
     "id": 5, 
-    "title": "MTCNA - MikroTik", 
+    "title": "Sample 05", 
     "author": "Sony Vansha",
-    "cover_url": "https://i.ibb.co.com/Xt9F59G/Screenshot-22.png",
+    "cover_url": "https://i.ibb.co.com/jGdTtFS/Screenshot-32.png",
     "publish_date": "5 Maret 2023",
-    "pdf_link": "https://drive.google.com/file/d/1keRTu8m3U_Aen7BZLU2KXfZ1uYyOnz3v/view",
+    "pdf_link": "https://drive.google.com/file/d/1kyBO-S7ZNqHaPW3TPohTM2cqGyax-rkY/preview",
     "description": "A young wizard embarks on his first year at Hogwarts School of Witchcraft and Wizardry."
   }
 ]
