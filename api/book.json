@@ -1,46 +1,38 @@
 [
   { 
     "id": 1, 
-    "title": "Sample 01", 
+    "title": "MTCNA v1 - Sony", 
     "author": "Sony Vansha",
-    "cover_url": "https://i.ibb.co.com/k4ztjxh/Screenshot-28.png",
+    "cover_url": "https://i.ibb.co.com/nDMjmGq/Screenshot-22.png",
     "publish_date": "5 Maret 2023",
-    "pdf_link": "https://drive.google.com/file/d/1WlvARMzQO2oZ__Tiw9jAgQn3-WzIpVGp/preview",
-    "description": "A young wizard embarks on his first year at Hogwarts School of Witchcraft and Wizardry."
+    "pdf_link": "https://drive.google.com/file/d/1nFxjXj21Pn9F8R-UHh_WloWpHdQFQu2s/preview",
+    "description": "Modul Mikrotik yang memiliki v1"
   },
   { 
     "id": 2, 
-    "title": "Sample 02", 
-    "author": "Sony Vansha",
-    "cover_url": "https://i.ibb.co.com/hCNY9R9/Screenshot-29.png",
-    "pdf_link": "https://drive.google.com/file/d/1zxvbrDi09N1m-Y442cAgDqzth60kVxET/preview",
-    "description": "A young wizard embarks on his first year at Hogwarts School of Witchcraft and Wizardry."
+    "title": "Container Menggunakan Docker di Ubuntu", 
+    "author": "Senior Galih 😊",
+    "cover_url": "https://i.ibb.co.com/hR3jX62/Screenshot-37.png",
+    "publish_date": "🤫 Oktober 2023",
+    "pdf_link": "https://drive.google.com/file/d/1IW1hCu1vdb4nHFMOo_0bcBWIHqBMVYCs/preview",
+    "description": "Dalam buku ini, akan membahas tentang dasar-dasar container, cara menginstal Docker di Ubuntu, dan cara menjalankan container menggunakan Docker. Saya juga akan memberikanbeberapa contoh penggunaan Docker untuk menjalankan aplikasi web, aplikasi database, dan aplikasi lainnya."
   },
   { 
     "id": 3, 
-    "title": "Sample 03", 
-    "author": "Sony Vansha",
-    "cover_url": "https://i.ibb.co.com/xsKdX4X/Screenshot-30.png",
-    "publish_date": "5 Maret 2023",
-    "pdf_link": "https://drive.google.com/file/d/1mYQRodCNa42ad-5uHxKDI_nuE6ynMerD/preview",
-    "description": "A young wizard embarks on his first year at Hogwarts School of Witchcraft and Wizardry."
+    "title": "NetDevOps menggunakan CI/CD", 
+    "author": "I PUTU HARIYADI",
+    "cover_url": "https://i.ibb.co.com/StrgVD5/Screenshot-38.png",
+    "publish_date": "?",
+    "pdf_link": "https://drive.google.com/file/d/1x7OqFSSm1u7OJjEyj_w7Y_P2t6yZ1B-T/preview",
+    "description": "Ebook ini dibuat sebagai panduan praktis bagi rekan-rekan yang tertarik dalam mempelajari tentang Network Development Operations (NetDevOps) khususnya menggunakan Continuous Integration/Continuous Deployment (CI/CD) pipelines untuk mengkonfigurasi dan memanajemen infrastruktur jaringan berbasis MikroTik."
   },
   { 
     "id": 4, 
-    "title": "Sample 04", 
-    "author": "Sony Vansha",
-    "cover_url": "https://i.ibb.co.com/SVMfVtT/Screenshot-31.png",
-    "publish_date": "5 Maret 2023",
-    "pdf_link": "https://drive.google.com/file/d/1lXPvRkcuHHG5eHwqNYjdGIyD_AhR7A7w/preview",
-    "description": "A young wizard embarks on his first year at Hogwarts School of Witchcraft and Wizardry."
+    "title": "MikroTik Certified Routing Engineer Module For KITS", 
+    "author": "Gatot Sugiarto & M. Hanif Ramadhan",
+    "cover_url": "https://i.ibb.co.com/WVsHSz6/Screenshot-39.png",
+    "publish_date": "10 Juli 2024",
+    "pdf_link": "https://drive.google.com/file/d/1rTcZ-Px3m1Hm_Gb4MgbnfIHegDV9WLUC/preview",
+    "description": "Pada buku ini akan membahas tentang Routing pada MikroTik, Karena buku ini sangat jauh dari Kata Sempurna, jadi tolong bagi kalian yang menemukan Kesalahan dalam buku saya atau saran"
   },
-  { 
-    "id": 5, 
-    "title": "Sample 05", 
-    "author": "Sony Vansha",
-    "cover_url": "https://i.ibb.co.com/jGdTtFS/Screenshot-32.png",
-    "publish_date": "5 Maret 2023",
-    "pdf_link": "https://drive.google.com/file/d/1kyBO-S7ZNqHaPW3TPohTM2cqGyax-rkY/preview",
-    "description": "A young wizard embarks on his first year at Hogwarts School of Witchcraft and Wizardry."
-  }
 ]
