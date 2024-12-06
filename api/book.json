@@ -11,18 +11,18 @@
   { 
     "id": 2, 
     "title": "Container Menggunakan Docker di Ubuntu", 
-    "author": "Senior Galih 😊",
+    "author": "Senior Galih",
     "cover_url": "https://i.ibb.co.com/hR3jX62/Screenshot-37.png",
-    "publish_date": "🤫 Oktober 2023",
+    "publish_date": "Oktober 2023",
     "pdf_link": "https://drive.google.com/file/d/1IW1hCu1vdb4nHFMOo_0bcBWIHqBMVYCs/preview",
-    "description": "Dalam buku ini, akan membahas tentang dasar-dasar container, cara menginstal Docker di Ubuntu, dan cara menjalankan container menggunakan Docker. Saya juga akan memberikanbeberapa contoh penggunaan Docker untuk menjalankan aplikasi web, aplikasi database, dan aplikasi lainnya."
+    "description": "Dalam buku ini, akan membahas tentang dasar-dasar container, cara menginstal Docker di Ubuntu, dan cara menjalankan container menggunakan Docker. Saya juga akan memberikan beberapa contoh penggunaan Docker untuk menjalankan aplikasi web, aplikasi database, dan aplikasi lainnya."
   },
   { 
     "id": 3, 
     "title": "NetDevOps menggunakan CI/CD", 
     "author": "I PUTU HARIYADI",
     "cover_url": "https://i.ibb.co.com/StrgVD5/Screenshot-38.png",
-    "publish_date": "?",
+    "publish_date": null,
     "pdf_link": "https://drive.google.com/file/d/1x7OqFSSm1u7OJjEyj_w7Y_P2t6yZ1B-T/preview",
     "description": "Ebook ini dibuat sebagai panduan praktis bagi rekan-rekan yang tertarik dalam mempelajari tentang Network Development Operations (NetDevOps) khususnya menggunakan Continuous Integration/Continuous Deployment (CI/CD) pipelines untuk mengkonfigurasi dan memanajemen infrastruktur jaringan berbasis MikroTik."
   },
@@ -34,5 +34,5 @@
     "publish_date": "10 Juli 2024",
     "pdf_link": "https://drive.google.com/file/d/1rTcZ-Px3m1Hm_Gb4MgbnfIHegDV9WLUC/preview",
     "description": "Pada buku ini akan membahas tentang Routing pada MikroTik, Karena buku ini sangat jauh dari Kata Sempurna, jadi tolong bagi kalian yang menemukan Kesalahan dalam buku saya atau saran"
-  },
+  }
 ]
