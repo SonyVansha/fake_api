@@ -26,7 +26,7 @@
     "pdf_link": "https://drive.google.com/file/d/1x7OqFSSm1u7OJjEyj_w7Y_P2t6yZ1B-T/preview",
     "description": "Ebook ini dibuat sebagai panduan praktis bagi rekan-rekan yang tertarik dalam mempelajari tentang Network Development Operations (NetDevOps) khususnya menggunakan Continuous Integration/Continuous Deployment (CI/CD) pipelines untuk mengkonfigurasi dan memanajemen infrastruktur jaringan berbasis MikroTik."
   },
-  { 
+  {
     "id": 4, 
     "title": "MikroTik Certified Routing Engineer Module For KITS", 
     "author": "Gatot Sugiarto & M. Hanif Ramadhan",
@@ -34,5 +34,14 @@
     "publish_date": "10 Juli 2024",
     "pdf_link": "https://drive.google.com/file/d/1rTcZ-Px3m1Hm_Gb4MgbnfIHegDV9WLUC/preview",
     "description": "Pada buku ini akan membahas tentang Routing pada MikroTik, Karena buku ini sangat jauh dari Kata Sempurna, jadi tolong bagi kalian yang menemukan Kesalahan dalam buku saya atau saran"
+  },
+  {
+    "id": 5, 
+    "title": "modul DEBIAN 11", 
+    "author": "Tiara Dwi MaulitaSari",
+    "cover_url": "https://i.ibb.co.com/Wsq08qh/Screenshot-41.png",
+    "publish_date": "27Maret 2023",
+    "pdf_link": "https://drive.google.com/file/d/12upZiMVSdbUnQ7T_GHJRqGmNaXtgf79M/preview",
+    "description": "Saya berharap modul ini dapat bermanfaat untuk semuaorangtakterkecuali saya sendiri.Saya sadar penyusunan modul ini masih harus banyakperbaikan,maka dari itu saran dan kritikan anda sangat saya harapkanagar lebih baik lagi kedepannya."
   }
 ]
